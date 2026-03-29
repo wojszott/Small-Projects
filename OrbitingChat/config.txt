@@ -1,0 +1,10 @@
+[GameSettings]
+token = {token}
+initial_channels = {channel_name}
+prefix=!
+bot_id = {bot_id}
+
+[Endpoints]
+twitch_emote = https://static-cdn.jtvnw.net/emoticons/v2/{eid}/default/dark/1.0
+seven_tv_user = https://7tv.io/v3/users/twitch/{channel}
+seven_tv_emote = https://cdn.7tv.app/emote/{eid}/1x.webp
