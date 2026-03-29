@@ -1,0 +1,15 @@
+Control:
+P buton - On/Off
+Enter - Start
+
+To switch font/numbers:
+1.Go to _internal/Sprites/Numbers (should be next to .exe file)
+2.Swap out those files
+NOTE:
+You need all files for it to work
+{
+"0.png","1.png","2.png","3.png","4.png","5.png",
+"6.png","7.png","8.png","9.png", "colon.png"
+}
+
+Have fun!
